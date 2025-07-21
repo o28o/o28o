@@ -8,7 +8,7 @@ I study the Buddha's Teaching (Dhamma) and Pali. I'm not a professional develope
 
 ## 🌱 I’m currently learning
 
-- 📜 **Dhamma stack**: Four Noble Truths, Noble Eightfold Path, Satipaṭṭhāna, Ānāpānasati, Asubha contemplations, Brahmavihāras  
+- 📜 **Dhamma stack**: Four Noble Truths, Noble Eightfold Path, Satipaṭṭhāna, Ānāpānasati, Asubhasañña, Brahmavihāras  
 - 💻 **Tech stack**: JavaScript, Bash, PHP, HTML+CSS, some Python
 
 ## 👯 I’m collaborating on
