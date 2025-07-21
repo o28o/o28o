@@ -14,12 +14,10 @@ My projects are my technical experiments dedicated to searching for Truth and st
 
 ## 👯 I’m looking to collaborate on:
 
-- [@o28o/dg — Dhamma.Gift: Pali & Vinaya Search](https://github.com/o28o/dg) — Search through the Pali Canon and Vinaya Pitaka
-- [@o28o/dgift_bot — Inline Telegram bot Dhamma.Gift](https://github.com/o28o/dgift_bot)
-- [@o28o/dpd-ui — Dict.Dhamma.Gift, modified DPD dictionary website](https://github.com/o28o/dpd-ui)
-- [@o28o/dictPlugin — Dhamma.Gift + DPD browser extensions](https://github.com/o28o/dictPlugin)
-
-## License
+- [@o28o/dg](https://github.com/o28o/dg) — [**Dhamma.Gift**](https://dhamma.gift) — Presice Search in the Pali Suttas and Vinaya  
+- [@o28o/dgift_bot](https://github.com/o28o/dgift_bot) — [**Dhamma.Gift Telegram Bot**](https://t.me/dgift_bot) — Inline bot for instant Pali text search directly in any Telegram Chat or Group
+- [@o28o/dpd-ui](https://github.com/o28o/dpd-ui) — [**Dict.Dhamma.Gift**](https://dict.dhamma.gift) — Improved version of the Digital Pali Dictionary (DPD) Online  
+- [@o28o/dictPlugin](https://github.com/o28o/dictPlugin) — [**Browser extensions**](https://dhamma.gift/#links) — Browser extensions for Sutta Search and Pali Lookup ense
 
 All content in this profile is licensed under  
 [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
