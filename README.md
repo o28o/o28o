@@ -19,14 +19,21 @@ My projects are my technical experiments dedicated to searching for Truth and st
 - [@o28o/dpd-ui](https://github.com/o28o/dpd-ui) — [**Dict.Dhamma.Gift**](https://dict.dhamma.gift) — Improved version of the Digital Pali Dictionary (DPD) Online  
 - [@o28o/dictPlugin](https://github.com/o28o/dictPlugin) — [**Browser extensions**](https://dhamma.gift/#links) — Browser extensions for Sutta Search and Pali Lookup ense
 
-All content in this profile is licensed under  
-[Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+## License
 
+Unless otherwise specified:
+
+- **All software and code** in this profile is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+- **All content** (such as translations or other texts) is licensed under  
+  [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+  <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+  <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+  <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+  <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+  
+Pali texts and English Translations from SuttaCentra.net, the works of A. Y. Syrkin and TheBuddhasWords.net are subject to different terms. Please check with the copyright holders for their usage conditions.
 ---
+
 > o28o © 2025
 
 <!--
